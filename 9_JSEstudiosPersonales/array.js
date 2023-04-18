@@ -1,0 +1,1 @@
+let array = [1,2,3,'asd',true,false,'freddy',123,321]
